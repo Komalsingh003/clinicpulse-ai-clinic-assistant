@@ -2,7 +2,9 @@
 
 A web app that helps a GP clinic's front desk reply to patient reviews, write recall reminders, and spot what patients are saying. Built with AI tools for the Gokul Infocare *AI Growth & Automation Associate* assessment (Task 1, Automation + Healthcare).
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://clinicpulse-ai-clinic-assistant.vercel.app
+_Note: the backend runs on a free plan, so the first request after a pause can take up to a minute._
+
 **Demo uses fake data only. Never enter real patient information.**
 
 ## What it does
